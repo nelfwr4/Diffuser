@@ -1,0 +1,42 @@
+Change Component Comment : Designator=R1 Old Comment=R_0603 New Comment=1K
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C_0603"; UniqueID = "\YFXPJLYH" ("\YFXPJLYH")
+Change component parameters (AddParameter): Name = "D"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R_0603"; UniqueID = "\DLFHCEMM" ("\DLFHCEMM")
+Change component parameters (AddParameter): Name = "D"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(C_0603)
+Add component (AddParameter): Name = "D"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(OPEN_JMP)
+Added Component: Designator=R2(R_0603)
+Add component (AddParameter): Name = "D"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetJ1_0 Pin=R2-2
+Added Net: Name=NetJ1_0
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-18
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=VDD Pin=J1-1
+Added Pin To Net: NetName=VDD Pin=U1-22
+Added Net: Name=VDD
+Added Pin To Net: NetName=VUSB Pin=R1-2
+Added Pin To Net: NetName=VUSB Pin=U1-24
+Added Net: Name=VUSB
+Added Member To Class: ClassName=1.USB_Power_Delivery Member=Component C2 C_0603
+Added Member To Class: ClassName=1.USB_Power_Delivery Member=Component J1 OPEN_JMP
+Added Member To Class: ClassName=1.USB_Power_Delivery Member=Component R2 1K

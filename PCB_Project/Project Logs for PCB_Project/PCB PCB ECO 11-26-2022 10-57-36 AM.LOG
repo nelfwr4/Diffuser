@@ -1,0 +1,37 @@
+Removed Member From Class: ClassName=1.USB_Power_Delivery Member=C1
+Removed Member From Class: ClassName=1.USB_Power_Delivery Member=R1
+Removed Member From Class: ClassName=1.USB_Power_Delivery Member=U1
+Added Component: Designator=C?(C_0603)
+Add component (AddParameter): Name = "D"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(C_0603)
+Add component (AddParameter): Name = "D"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(OPEN_JMP)
+Added Component: Designator=R?(R_0603)
+Add component (AddParameter): Name = "D"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(STUSB4500QTR)
+Add component (AddParameter): Name = "D"; Value = "USB Interface IC Standalone USB PD controller for power sinking devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P"; Value = "QFN-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "STUSB4500QTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.mouser.in/ProductDetail/STMicroelectronics/STUSB4500QTR?qs=wUXugUrL1qyQbYMSzG1ujg%3D%3D&gclid=CjwKCAiA7IGcBhA8EiwAFfUDsZkZhe45H6sb259SlrXLDhHuC3iFilUbHdwuboXJa3yG6M-NUEA8VhoC06YQAvD_BwE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VUSB Pin=U?-22
+Added Pin To Net: NetName=VUSB Pin=U?-24
+Added Net: Name=VUSB
+Added Member To Class: ClassName=1.USB_Power_Delivery Member=Component C? C_0603
+Added Member To Class: ClassName=1.USB_Power_Delivery Member=Component C? C_0603
+Added Member To Class: ClassName=1.USB_Power_Delivery Member=Component J? OPEN_JMP
+Added Member To Class: ClassName=1.USB_Power_Delivery Member=Component R? R_0603
+Added Member To Class: ClassName=1.USB_Power_Delivery Member=Component U? STUSB4500QTR
+Added Room: Name=1.USB_Power_Delivery

@@ -1,0 +1,16 @@
+Added Component: Designator=CON1(217175-0001)
+Add component (AddParameter): Name = "D"; Value = "USB Connectors Top-Mnt SMT 6Ckt Type C Rec."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P"; Value = "6 Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "217175-0001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.mouser.in/ProductDetail/Molex/217175-0001?qs=DRkmTr78QARWJMiqNnldSg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U1(STUSB4500QTR)
+Add component (AddParameter): Name = "D"; Value = "USB Interface IC Standalone USB PD controller for power sinking devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P"; Value = "QFN-24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "STUSB4500QTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.mouser.in/ProductDetail/STMicroelectronics/STUSB4500QTR?qs=wUXugUrL1qyQbYMSzG1ujg%3D%3D&gclid=CjwKCAiA7IGcBhA8EiwAFfUDsZkZhe45H6sb259SlrXLDhHuC3iFilUbHdwuboXJa3yG6M-NUEA8VhoC06YQAvD_BwE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCON1_S4 Pin=CON1-S4
+Added Pin To Net: NetName=NetCON1_S4 Pin=U1-18
+Added Net: Name=NetCON1_S4
+Added Class: Name=1.USB_Power_Delivery
