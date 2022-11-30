@@ -1,2 +1,6 @@
-Record=TopLevelDocument|FileName=1.USB_Power_Delivery.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=1.USB_Power_Delivery.SchDoc|FileName=BlockDiagram.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=2
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_1.USB_Power_Delivery|SchDesignator=U_1.USB_Power_Delivery|FileName=1.USB_Power_Delivery.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=1.USB_Power_Delivery.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_2.Connectors|SchDesignator=U_2.Connectors|FileName=2.Connectors.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=2.Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_3.Heater_and_Temperature_sensor|SchDesignator=U_3.Heater_and_Temperature_sensor|FileName=3.Heater_and_Temperature_sensor.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=3.Heater_and_Temperature_sensor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_3.Heater_and_Temperature_sensor|SchDesignator=U_3.Heater_and_Temperature_sensor|FileName=3.Heater_and_Temperature_sensor.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=3.Heater_and_Temperature_sensor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=BlockDiagram.SchDoc|SheetNumber=1
