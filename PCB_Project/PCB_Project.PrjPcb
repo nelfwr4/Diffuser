@@ -227,6 +227,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLSGMSUG
 
+[Document12]
+DocumentPath=Sheets\7.Humidifier.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FAFOGDZW
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1202,10 +1219,10 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=3.3V|NetColor=$000083FD
-Net2=NetName=GND|NetColor=clBlack
-Net3=NetName=N00000|NetColor=$006E6EFF
-Net4=NetName=NetC?_2|NetColor=clBlack
+Net1=NetName=12V|NetColor=$00CA9C00
+Net2=NetName=3.3V|NetColor=$000083FD
+Net3=NetName=GND|NetColor=clBlack
+Net4=NetName=N00000|NetColor=$00CA9C00
 Net5=NetName=NetCON?_1|NetColor=$006E6EFF
 Net6=NetName=NetCON?A_1|NetColor=$006E6EFF
 Net7=NetName=NetCON?B_1|NetColor=$006E6EFF
