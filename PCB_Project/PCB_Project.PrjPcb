@@ -261,6 +261,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XKVEXLXV
 
+[Document14]
+DocumentPath=Sheets\RGB_LED.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WOWWBXUS
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1238,17 +1255,20 @@ PartTypes=0
 [NetInfos]
 Net1=NetName=12V|NetColor=$00CA9C00
 Net2=NetName=3.3V|NetColor=$000083FD
-Net3=NetName=GND|NetColor=clBlack
-Net4=NetName=N00000|NetColor=$00CA9C00
-Net5=NetName=NetCON?_1|NetColor=$006E6EFF
-Net6=NetName=NetCON?A_1|NetColor=$006E6EFF
-Net7=NetName=NetCON?B_1|NetColor=$006E6EFF
-Net8=NetName=NetTR?_1|NetColor=$000083FD
-Net9=NetName=NetTR?A_1|NetColor=$000083FD
-Net10=NetName=NetTR?B_1|NetColor=$000083FD
-Net11=NetName=PWR_OUT|NetColor=$006E6EFF
-Net12=NetName=VDD|NetColor=clYellow
-Net13=NetName=VUSB|NetColor=$006E6EFF
+Net3=NetName=5V|NetColor=$00FF6E6E
+Net4=NetName=BAT_OUT|NetColor=$0000BE00
+Net5=NetName=GND|NetColor=clBlack
+Net6=NetName=N00000|NetColor=$0000BE00
+Net7=NetName=NetCON?_1|NetColor=$006E6EFF
+Net8=NetName=NetCON?A_1|NetColor=$006E6EFF
+Net9=NetName=NetCON?B_1|NetColor=$006E6EFF
+Net10=NetName=NetJ?_0|NetColor=$0000BE00
+Net11=NetName=NetTR?_1|NetColor=$000083FD
+Net12=NetName=NetTR?A_1|NetColor=$000083FD
+Net13=NetName=NetTR?B_1|NetColor=$000083FD
+Net14=NetName=PWR_OUT|NetColor=$006E6EFF
+Net15=NetName=VDD|NetColor=clYellow
+Net16=NetName=VUSB|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
