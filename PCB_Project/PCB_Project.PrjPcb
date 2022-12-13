@@ -41,23 +41,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Sheets\BlockDiagram.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PJZUDUTP
-
-[Document2]
 DocumentPath=Lib\Schlib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,7 +57,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YEBSABFC
 
-[Document3]
+[Document2]
 DocumentPath=Lib\PcbLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +74,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TJGMRFCD
 
-[Document4]
+[Document3]
 DocumentPath=Sheets\1.USB_Power_Delivery.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MTCCJNNK
 
-[Document5]
+[Document4]
 DocumentPath=PCB\PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,14 +108,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NTRMTEAP
 
-[Document6]
+[Document5]
 DocumentPath=Sheets\Main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -142,14 +125,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IQMNBYZE
 
-[Document7]
+[Document6]
 DocumentPath=Sheets\2.Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -159,14 +142,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PVXHPGEE
 
-[Document8]
+[Document7]
 DocumentPath=Sheets\3.Heater_and_Temperature_sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -176,14 +159,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YJQGETPK
 
-[Document9]
+[Document8]
 DocumentPath=Sheets\4.Power_switching.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -193,14 +176,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JCVXXZLG
 
-[Document10]
+[Document9]
 DocumentPath=Sheets\5.Battery.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -210,14 +193,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FMBCJZEJ
 
-[Document11]
+[Document10]
 DocumentPath=Sheets\6.Voltage_regulators.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -227,14 +210,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLSGMSUG
 
-[Document12]
+[Document11]
 DocumentPath=Sheets\7.Humidifier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -244,14 +227,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FAFOGDZW
 
-[Document13]
+[Document12]
 DocumentPath=Sheets\8.ESP32.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -261,14 +244,31 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XKVEXLXV
 
-[Document14]
-DocumentPath=Sheets\RGB_LED.SchDoc
+[Document13]
+DocumentPath=Sheets\9.Fan.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=10
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QIFMBWUX
+
+[Document14]
+DocumentPath=Sheets\10.RGB_LED.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=11
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -277,6 +277,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WOWWBXUS
+
+[Document15]
+DocumentPath=Sheets\11.Air_Pressure_sensor.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=12
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EVGRUAKP
 
 [Configuration1]
 Name=Sources
@@ -607,6 +624,20 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=LibRef=120|D=100|PN=100|Comment=100|Designator=100|MFR=100|P=100|URL=100|Quantity=120
+Configuration1_Name7=VisibleOrder_Flat
+Configuration1_Item7=LibRef=120|D=100|PN=100|Comment=100|Designator=100|MFR=100|P=100|URL=100|Quantity=120
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
@@ -1232,6 +1263,192 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Schlib.SchLib
+ComponentDesignItemID0=1N4147
+ComponentSymbolReference0=1N4147
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Schlib.SchLib
+ComponentDesignItemID1=2171750001
+ComponentSymbolReference1=2171750001
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Schlib.SchLib
+ComponentDesignItemID2=2P3.5MM
+ComponentSymbolReference2=2P3.5MM
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Schlib.SchLib
+ComponentDesignItemID3=4PIN_2.54
+ComponentSymbolReference3=4PIN_2.54
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Schlib.SchLib
+ComponentDesignItemID4=AP63301/2
+ComponentSymbolReference4=AP63301/2
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Schlib.SchLib
+ComponentDesignItemID5=BAT
+ComponentSymbolReference5=BAT
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Schlib.SchLib
+ComponentDesignItemID6=BAT60A
+ComponentSymbolReference6=BAT60A
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Schlib.SchLib
+ComponentDesignItemID7=BC847C
+ComponentSymbolReference7=BC847C
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=Schlib.SchLib
+ComponentDesignItemID8=C_0603
+ComponentSymbolReference8=C_0603
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=Schlib.SchLib
+ComponentDesignItemID9=CP
+ComponentSymbolReference9=CP
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=Schlib.SchLib
+ComponentDesignItemID10=ESDA25L
+ComponentSymbolReference10=ESDA25L
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=Schlib.SchLib
+ComponentDesignItemID11=ESP32-WROVER-IE
+ComponentSymbolReference11=ESP32-WROVER-IE
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=Schlib.SchLib
+ComponentDesignItemID12=L_COM
+ComponentSymbolReference12=L_COM
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=Schlib.SchLib
+ComponentDesignItemID13=LED_0603
+ComponentSymbolReference13=LED_0603
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=Schlib.SchLib
+ComponentDesignItemID14=NCP1117ST50T3G
+ComponentSymbolReference14=NCP1117ST50T3G
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=Schlib.SchLib
+ComponentDesignItemID15=NTC100K
+ComponentSymbolReference15=NTC100K
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=Schlib.SchLib
+ComponentDesignItemID16=OPEN_JMP
+ComponentSymbolReference16=OPEN_JMP
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=Schlib.SchLib
+ComponentDesignItemID17=PIEZO
+ComponentSymbolReference17=PIEZO
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=Schlib.SchLib
+ComponentDesignItemID18=PMV15ENE
+ComponentSymbolReference18=PMV15ENE
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name And Type
+ComponentLibraryIdentifier19=Schlib.SchLib
+ComponentDesignItemID19=R_0603
+ComponentSymbolReference19=R_0603
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name And Type
+ComponentLibraryIdentifier20=Schlib.SchLib
+ComponentDesignItemID20=SE/NE555
+ComponentSymbolReference20=SE/NE555
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name And Type
+ComponentLibraryIdentifier21=Schlib.SchLib
+ComponentDesignItemID21=Si3421DV
+ComponentSymbolReference21=Si3421DV
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name And Type
+ComponentLibraryIdentifier22=Schlib.SchLib
+ComponentDesignItemID22=SPST_SW
+ComponentSymbolReference22=SPST_SW
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name And Type
+ComponentLibraryIdentifier23=Schlib.SchLib
+ComponentDesignItemID23=SSCMANN010BA2A3
+ComponentSymbolReference23=SSCMANN010BA2A3
+ComponentUpdate23=1
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name And Type
+ComponentLibraryIdentifier24=Schlib.SchLib
+ComponentDesignItemID24=STUSB4500QTR
+ComponentSymbolReference24=STUSB4500QTR
+ComponentUpdate24=1
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name And Type
+ComponentLibraryIdentifier25=Schlib.SchLib
+ComponentDesignItemID25=SW
+ComponentSymbolReference25=SW
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Library Name And Type
+ComponentLibraryIdentifier26=Schlib.SchLib
+ComponentDesignItemID26=TC33 - 3 mm SMD Trimpot
+ComponentSymbolReference26=TC33 - 3 mm SMD Trimpot
+ComponentUpdate26=1
+ComponentIsDeviceSheet26=0
+ComponentLibIdentifierKind27=Library Name And Type
+ComponentLibraryIdentifier27=Schlib.SchLib
+ComponentDesignItemID27=TCRT5000
+ComponentSymbolReference27=TCRT5000
+ComponentUpdate27=1
+ComponentIsDeviceSheet27=0
+ComponentLibIdentifierKind28=Library Name And Type
+ComponentLibraryIdentifier28=Schlib.SchLib
+ComponentDesignItemID28=TP
+ComponentSymbolReference28=TP
+ComponentUpdate28=1
+ComponentIsDeviceSheet28=0
+ComponentLibIdentifierKind29=Library Name And Type
+ComponentLibraryIdentifier29=Schlib.SchLib
+ComponentDesignItemID29=VLS6045EX-4R7M
+ComponentSymbolReference29=VLS6045EX-4R7M
+ComponentUpdate29=1
+ComponentIsDeviceSheet29=0
+ComponentLibIdentifierKind30=Library Name And Type
+ComponentLibraryIdentifier30=Schlib.SchLib
+ComponentDesignItemID30=WS2812B
+ComponentSymbolReference30=WS2812B
+ComponentUpdate30=1
+ComponentIsDeviceSheet30=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1245,30 +1462,309 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=D
+ParameterUpdate2=1
+ParameterName3=Description
+ParameterUpdate3=1
+ParameterName4=Library Reference
+ParameterUpdate4=1
+ParameterName5=MFR
+ParameterUpdate5=1
+ParameterName6=P
+ParameterUpdate6=1
+ParameterName7=PN
+ParameterUpdate7=1
+ParameterName8=URL
+ParameterUpdate8=1
+ParameterName9=YRL
+ParameterUpdate9=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=217175-0001
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=2P_P3.5mm
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=4Pin_2.5
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=C_0603
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=ESP32-WROVER-IE
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=LED_0603
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=OPEN_JMP
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=PTS636 SM43J SMTR LFS
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=R_0603
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=SOD123
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=SOD-323
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=SOIC-8
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=SOT-223
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=SOT-23-3
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=SOT-23-6
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=SOT23FR
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=SSCMANN010BA2A3
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=TC33 - 3 mm SMD Trimpot
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=TCRT5000
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=TSOP-6
+ModelUpdate19=1
+ModelType20=PCBLIB
+ModelName20=VFQFN-24
+ModelUpdate20=1
+ModelType21=PCBLIB
+ModelName21=WS2812B
+ModelUpdate21=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Schlib.SchLib
+ComponentDesignItemID0=1N4147
+ComponentSymbolReference0=1N4147
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Schlib.SchLib
+ComponentDesignItemID1=2171750001
+ComponentSymbolReference1=2171750001
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Schlib.SchLib
+ComponentDesignItemID2=2P3.5MM
+ComponentSymbolReference2=2P3.5MM
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Schlib.SchLib
+ComponentDesignItemID3=4PIN_2.54
+ComponentSymbolReference3=4PIN_2.54
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Schlib.SchLib
+ComponentDesignItemID4=AP63301/2
+ComponentSymbolReference4=AP63301/2
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Schlib.SchLib
+ComponentDesignItemID5=BAT
+ComponentSymbolReference5=BAT
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Schlib.SchLib
+ComponentDesignItemID6=BAT60A
+ComponentSymbolReference6=BAT60A
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Schlib.SchLib
+ComponentDesignItemID7=BC847C
+ComponentSymbolReference7=BC847C
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=Schlib.SchLib
+ComponentDesignItemID8=C_0603
+ComponentSymbolReference8=C_0603
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=Schlib.SchLib
+ComponentDesignItemID9=CP
+ComponentSymbolReference9=CP
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=Schlib.SchLib
+ComponentDesignItemID10=ESDA25L
+ComponentSymbolReference10=ESDA25L
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=Schlib.SchLib
+ComponentDesignItemID11=ESP32-WROVER-IE
+ComponentSymbolReference11=ESP32-WROVER-IE
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=Schlib.SchLib
+ComponentDesignItemID12=L_COM
+ComponentSymbolReference12=L_COM
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=Schlib.SchLib
+ComponentDesignItemID13=LED_0603
+ComponentSymbolReference13=LED_0603
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=Schlib.SchLib
+ComponentDesignItemID14=NCP1117ST50T3G
+ComponentSymbolReference14=NCP1117ST50T3G
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=Schlib.SchLib
+ComponentDesignItemID15=NTC100K
+ComponentSymbolReference15=NTC100K
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=Schlib.SchLib
+ComponentDesignItemID16=OPEN_JMP
+ComponentSymbolReference16=OPEN_JMP
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=Schlib.SchLib
+ComponentDesignItemID17=PIEZO
+ComponentSymbolReference17=PIEZO
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=Schlib.SchLib
+ComponentDesignItemID18=PMV15ENE
+ComponentSymbolReference18=PMV15ENE
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name And Type
+ComponentLibraryIdentifier19=Schlib.SchLib
+ComponentDesignItemID19=R_0603
+ComponentSymbolReference19=R_0603
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name And Type
+ComponentLibraryIdentifier20=Schlib.SchLib
+ComponentDesignItemID20=SE/NE555
+ComponentSymbolReference20=SE/NE555
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name And Type
+ComponentLibraryIdentifier21=Schlib.SchLib
+ComponentDesignItemID21=Si3421DV
+ComponentSymbolReference21=Si3421DV
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name And Type
+ComponentLibraryIdentifier22=Schlib.SchLib
+ComponentDesignItemID22=SPST_SW
+ComponentSymbolReference22=SPST_SW
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name And Type
+ComponentLibraryIdentifier23=Schlib.SchLib
+ComponentDesignItemID23=SSCMANN010BA2A3
+ComponentSymbolReference23=SSCMANN010BA2A3
+ComponentUpdate23=1
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name And Type
+ComponentLibraryIdentifier24=Schlib.SchLib
+ComponentDesignItemID24=STUSB4500QTR
+ComponentSymbolReference24=STUSB4500QTR
+ComponentUpdate24=1
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name And Type
+ComponentLibraryIdentifier25=Schlib.SchLib
+ComponentDesignItemID25=SW
+ComponentSymbolReference25=SW
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Library Name And Type
+ComponentLibraryIdentifier26=Schlib.SchLib
+ComponentDesignItemID26=TC33 - 3 mm SMD Trimpot
+ComponentSymbolReference26=TC33 - 3 mm SMD Trimpot
+ComponentUpdate26=1
+ComponentIsDeviceSheet26=0
+ComponentLibIdentifierKind27=Library Name And Type
+ComponentLibraryIdentifier27=Schlib.SchLib
+ComponentDesignItemID27=TCRT5000
+ComponentSymbolReference27=TCRT5000
+ComponentUpdate27=1
+ComponentIsDeviceSheet27=0
+ComponentLibIdentifierKind28=Library Name And Type
+ComponentLibraryIdentifier28=Schlib.SchLib
+ComponentDesignItemID28=TP
+ComponentSymbolReference28=TP
+ComponentUpdate28=1
+ComponentIsDeviceSheet28=0
+ComponentLibIdentifierKind29=Library Name And Type
+ComponentLibraryIdentifier29=Schlib.SchLib
+ComponentDesignItemID29=VLS6045EX-4R7M
+ComponentSymbolReference29=VLS6045EX-4R7M
+ComponentUpdate29=1
+ComponentIsDeviceSheet29=0
+ComponentLibIdentifierKind30=Library Name And Type
+ComponentLibraryIdentifier30=Schlib.SchLib
+ComponentDesignItemID30=WS2812B
+ComponentSymbolReference30=WS2812B
+ComponentUpdate30=1
+ComponentIsDeviceSheet30=0
 
 [NetInfos]
 Net1=NetName=12V|NetColor=$00CA9C00
-Net2=NetName=3.3V|NetColor=$000083FD
-Net3=NetName=5V|NetColor=$00FF6E6E
-Net4=NetName=BAT_OUT|NetColor=$0000BE00
-Net5=NetName=GND|NetColor=clBlack
-Net6=NetName=N00000|NetColor=$0000BE00
-Net7=NetName=NetCON?_1|NetColor=$006E6EFF
-Net8=NetName=NetCON?A_1|NetColor=$006E6EFF
-Net9=NetName=NetCON?B_1|NetColor=$006E6EFF
-Net10=NetName=NetJ?_0|NetColor=$0000BE00
-Net11=NetName=NetTR?_1|NetColor=$000083FD
-Net12=NetName=NetTR?A_1|NetColor=$000083FD
-Net13=NetName=NetTR?B_1|NetColor=$000083FD
-Net14=NetName=PWR_OUT|NetColor=$006E6EFF
-Net15=NetName=VDD|NetColor=clYellow
-Net16=NetName=VUSB|NetColor=$006E6EFF
+Net2=NetName=12V_OUT|NetColor=$00FF6EFF
+Net3=NetName=20V|NetColor=$00FFFF6E
+Net4=NetName=3.3V|NetColor=$000083FD
+Net5=NetName=5V|NetColor=$00FF6E6E
+Net6=NetName=BAT_OUT|NetColor=$0000BE00
+Net7=NetName=GND|NetColor=clBlack
+Net8=NetName=N00000|NetColor=$0000BE00
+Net9=NetName=NetC?_2|NetColor=$00FF6EFF
+Net10=NetName=NetCON?_1|NetColor=$006E6EFF
+Net11=NetName=NetCON?A_1|NetColor=$006E6EFF
+Net12=NetName=NetCON?B_1|NetColor=$006E6EFF
+Net13=NetName=NetJ?_0|NetColor=$0000BE00
+Net14=NetName=NetJ11_1|NetColor=$00FFFF6E
+Net15=NetName=NetQ3_1|NetColor=$00FFFF6E
+Net16=NetName=NetTR?_1|NetColor=$000083FD
+Net17=NetName=NetTR?A_1|NetColor=$000083FD
+Net18=NetName=NetTR?B_1|NetColor=$000083FD
+Net19=NetName=PWR_OUT|NetColor=$006E6EFF
+Net20=NetName=VDD|NetColor=clYellow
+Net21=NetName=VUSB|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
